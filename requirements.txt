@@ -1,3 +1,8 @@
 Django~=5.1
 qrcode~=7.4.2
 djangorestframework~=3.15.2
+gunicorn==22.0.0
+environs
+django-cors-headers==4.4.0
+packaging==24.1
+tzdata==2024.1
